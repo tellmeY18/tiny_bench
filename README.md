@@ -29,3 +29,7 @@
 - M3 Air (16GB/4P+4E/8T)
   Single-threaded: 5.2768 seconds
   Multi-process: 1.1537 seconds
+
+- M1 Pro (16GB/4P+4E/8T)
+  Single-threaded: 7.9802 seconds
+  Multi-process: 1.5595 seconds
