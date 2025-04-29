@@ -2,6 +2,9 @@ import time
 import multiprocessing
 import sys
 
+if sys.version_info[0] != 3 or sys.version_info[1] != 11:
+    raise Exception("Python 3.11 is required to ensure consistent result.")
+
 TOTAL_ITERATIONS = 100_000_000
 NUM_PROCESSES = 8
 
