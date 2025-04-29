@@ -1,6 +1,20 @@
-# tiny_bench
+# Tiny Benchmark
+
+This is a simple and stupid benchmark I wrote for funsies. 
+Pure compute, no disk, no GPU. 
+It's written in Python so that anyone can run it without downloading a complex program like geekbench.
+This is in no way scientific. I just wanted something simple to run everywhere.
+
+Run using Python 3.11.  
+(This is important, results vary wildly across Python versions in my testing) 
+
+Create a PR to add your results below.
+
+It would be fun to see how you laptops, desktops, home labs, and even your phones with Termux stacks up.
 
 # Results
+
+At some point, this should be turned into a CSV. But this should do for now.
 
 - Pi4 (8GB/4c/4t):
   Single-threaded: 36.4213 seconds
