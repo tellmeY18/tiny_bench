@@ -36,10 +36,15 @@ At some point, this should be turned into a CSV. But this should do for now.
   Single-threaded: 11.0227 seconds  
   Multi-process: 4.8285 seconds  
 
+- M3 Air (16GB/4P+4E/8T):  
+  Single-threaded: 5.2768 seconds  
+  Multi-process: 1.1537 seconds  
+
+- M1 Pro (16GB/4P+4E/8T):  
+  Single-threaded: 7.9802 seconds  
+  Multi-process: 1.5595 seconds  
+
 - 5900HS (40GB/8c/16t):  
   Single-threaded: 7.3729 seconds  
   Multi-process: 1.3195 seconds  
 
-- M3 Air (16GB/4P+4E/8T):  
-  Single-threaded: 5.2768 seconds  
-  Multi-process: 1.1537 seconds  
